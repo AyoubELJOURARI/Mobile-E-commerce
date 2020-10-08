@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950399810121",
+    "firebase_url": "https://pfa-ecommerce.firebaseio.com",
+    "project_id": "pfa-ecommerce",
+    "storage_bucket": "pfa-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950399810121:android:7121ca5eea125d57751d98",
+        "android_client_info": {
+          "package_name": "com.example.pfa_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950399810121-2tpsggv714enj3ui5qmcgj08hl7eojd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkahHEYDcloeXzCdKgPy5CY_V1DZOcLZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950399810121-2tpsggv714enj3ui5qmcgj08hl7eojd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
